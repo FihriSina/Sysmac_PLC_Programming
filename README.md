@@ -4,8 +4,10 @@
 
 This repository contains projects developed during the **“Sysmac Studio ile Omron PLC Programlama Eğitimi”** course.
 
-🎓 Course Link:
+🎓 Course Link 1:
 [https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-egitimi-1/](https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-egitimi-1/)
+🎓 Course Link 2:
+[https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/](https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/)
 
 The purpose of this repository is to systematically document my PLC programming learning journey and build a professional automation portfolio.
 
@@ -42,8 +44,10 @@ This repository will continue to evolve as I advance in industrial automation an
 
 Bu repository, **Sysmac Studio ile Omron PLC Programlama Eğitimi** sürecinde geliştirdiğim projeleri içermektedir.
 
-🎓 Eğitim Linki:
+🎓 Eğitim Linki 1:
 [https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-egitimi-1/](https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-egitimi-1/)
+🎓 Eğitim Linki 2:
+[https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/](https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/)
 
 Bu repo, PLC programlama öğrenme sürecimi sistematik ve dokümante edilmiş şekilde paylaşmak amacıyla oluşturulmuştur.
 
