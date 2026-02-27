@@ -6,6 +6,7 @@ This repository contains projects developed during the **“Sysmac Studio ile Om
 
 🎓 Course Link 1:
 [https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-egitimi-1/](https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-egitimi-1/)
+
 🎓 Course Link 2:
 [https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/](https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/)
 
@@ -46,6 +47,7 @@ Bu repository, **Sysmac Studio ile Omron PLC Programlama Eğitimi** sürecinde g
 
 🎓 Eğitim Linki 1:
 [https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-egitimi-1/](https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-egitimi-1/)
+
 🎓 Eğitim Linki 2:
 [https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/](https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/)
 
